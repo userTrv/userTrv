@@ -46,16 +46,6 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Featured
-
-| Project | What it is |
-|---|---|
-| [**BotHelpChat**](https://github.com/LilTenImat/BotHelpChat) | Real-time chat in Angular 19: standalone components, OnPush, signals, RxJS state |
-| [**evraz**](https://github.com/LilTenImat/evraz) | EVRAZ hackathon: an equipment-monitoring dashboard for exhausters in Angular + Taiga UI with live data over WebSocket |
-| [**colloss**](https://github.com/LilTenImat/colloss) | Bachelor's thesis (SPbU, 2024): high-order interpolants for collocation Runge–Kutta methods and a Python solver written from scratch |
-
-<sub>Most of my production code lives in private company repositories.</sub>
-
 ---
 
 <p align="center">♟️ Chess · ✈️ Travel</p>
