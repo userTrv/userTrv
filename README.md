@@ -19,32 +19,13 @@
 - I own frontend architecture, do code reviews and mentor developers
 - I use AI-assisted development (Claude Code, Cursor) every day and take personal responsibility for the code it helps produce
 
-### Highlights
-
-- ⚡ **13 s → 2 s** to open a large scenario in the visual chatbot builder (GoJS model conversion moved to a Web Worker, monolithic page split into services)
-- 🏗️ Wrote a **refactoring plan the team adopted as its standard** and restructured app layers in an Nx monorepo
-- 🧩 **1 week → 1–2 days** to ship a new subscriber-acquisition tool: about 10 copy-pasted modules consolidated into a registry
-- 🤖 Automated `data-testid` for E2E: a Node.js template scanner and generator, a custom ESLint rule and a CI check
-
 ### Tech
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![NGXS](https://img.shields.io/badge/NGXS-3F51B5?style=flat-square)
-![Signals](https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Taiga UI](https://img.shields.io/badge/Taiga_UI-FF7043?style=flat-square)
-![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=flat-square&logo=angular&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Web Workers](https://img.shields.io/badge/Web_Workers-555555?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+![Web Performance](https://img.shields.io/badge/Web_Performance-F44B21?style=flat-square&logo=lighthouse&logoColor=white) ![Frontend Architecture](https://img.shields.io/badge/Frontend_Architecture-24292F?style=flat-square) ![Testing](https://img.shields.io/badge/Testing-C21325?style=flat-square&logo=jest&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![AI-assisted dev](https://img.shields.io/badge/AI--assisted_dev-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
